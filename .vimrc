@@ -29,6 +29,5 @@ set expandtab
 set number
 set showcmd
 set cursorline
-set autotab
 set autoindent
 
